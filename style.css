@@ -1,0 +1,33 @@
+* {
+     line-height: 2px;
+}
+
+.container {
+    display: block;
+    margin: 5px 0px;
+    clear: both;
+}
+
+.canvas {
+    display: float;
+    border: solid black 1px;
+    width: 800px;
+}
+
+.square {
+  border: solid black 0px;
+  font-size: 0px;
+  line-height: 200px;
+  display: inline-block;
+  width: 200px;
+  padding: 0px;
+  margin:0px;
+}
+
+input[type=text] {
+    width: 40px;
+}
+
+#New {
+    line-height: 15px;
+}
